@@ -26,7 +26,7 @@ local-language-translator/
 ## Installation and Usage
 1. Clone this repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/dipeshkumar123/Local-Language-Translator-for-Daily-Phrases.git
    ```
 2. Navigate to the project folder:
    ```bash
